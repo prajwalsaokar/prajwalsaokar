@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning about applied ML and distributed systems
 
-- 👯 I’m looking to collaborate on **projects for hackathons and cool startup ideas
+- 👯 I’m looking to collaborate on projects for hackathons and cool startup ideas
 
 - 📫 Reach me at prajwal.saokar@gmail.com
 
