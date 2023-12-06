@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hey! I'm Prajwal 👋</h1>
+- 🔭 I’m working on **using GenAI to transform education at EduScroll**
 
-<!--
-**prajwalsaokar/prajwalsaokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **about applied ML and distributed systems**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **projects for hackathons and cool startup ideas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me at **prajwal.saokar@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
