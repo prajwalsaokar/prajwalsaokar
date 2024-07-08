@@ -1,8 +1,8 @@
 <h1 align="center">Hey! I'm Prajwal 👋</h1>
 
-- 🔭 I’m working on using GenAI to transform education at EduScroll
+- 🔭 Currently a Summer Front Office Development Intern @ Hudson Bay Capital
 
-- 🌱 I’m currently learning about applied ML and distributed systems
+- 🌱 I’m learning about applied ML, distributed systems, and quantitative finance
 
 - 👯 I’m looking to collaborate on projects for hackathons and cool startup ideas
 
