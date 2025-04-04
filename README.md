@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm Prajwal 👋</h1>
 
-- 🔭 Currently a Front Office Development Intern @ Hudson Bay Capital
+- 🔭 Currently a Quantitative Development Intern @ Hudson Bay Capital
 
 - 🌱 I’m learning about applied ML, distributed systems, and quantitative finance
 
